@@ -42,4 +42,4 @@ This project focuses on pulling real-time data from a cryptocurrency API and usi
 
 Below you will find a line graph to display training observations and training predictions on data based off of Bitcoin within the Kraken exchange
 
-![Alt text](relative/path/to/predicitions.png)
+![Alt text](predictions.png)
