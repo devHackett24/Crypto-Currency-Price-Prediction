@@ -32,10 +32,14 @@ This project focuses on pulling real-time data from a cryptocurrency API and usi
   - Includes hyperparameters such as Density, Dropout, and LSTM for optimized time series analysis.
 
 - **Prediction:**
-  - The trained model is used to recursively predict future cryptocurrency prices.
+  - The trained model is used to recursively predict future cryptocurrency prices
 
 
 ## Future Improvements
 - **Model Optimization:** Experiment with different architectures and hyperparameters to further enhance prediction accuracy.
 - **Additional Features:** Incorporate more cryptocurrencies and exchanges for broader analysis.
 - **User Interface:** Develop a user-friendly interface for non-technical users to interact with the model.
+
+Below you will find a line graph to display training observations and training predictions on data based off of Bitcoin within the Kraken exchange
+
+![Alt text]('/Users/devhackett/Desktop/Python_DA_Notes/predictions.png')
