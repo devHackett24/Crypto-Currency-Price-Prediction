@@ -1,7 +1,3 @@
-Here's the updated README with the libraries you used:
-
----
-
 # Cryptocurrency Price Prediction
 
 ## Project Overview
